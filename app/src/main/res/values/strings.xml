@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">LibSandbox</string>
+    <string name="texto_x">Sou uma activity chamada diretamente de uma lib que está no Maven!</string>
+    <string name="olar_amigo">Olar amigo!</string>
 </resources>
